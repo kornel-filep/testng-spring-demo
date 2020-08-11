@@ -1,6 +1,6 @@
 # Small project demonstrating usage of Testng, Spring Boot and RestAssured
 
-##Execution
+## Execution
 ### Run all tests
 Use `mvn clean test`
 ### Run api tests
