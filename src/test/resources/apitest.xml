@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="ApiTestSet">
+    <test name="AllApiTests" verbose="2">
+        <packages>
+            <package name="com.epam.demo.test.api.*"/>
+        </packages>
+    </test>
+</suite>
